@@ -1,0 +1,2 @@
+# closer
+Closer for Go
